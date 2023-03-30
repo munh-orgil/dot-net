@@ -1,0 +1,11 @@
+C:\Users\Munh-Orgil\Desktop\nmit\DotNET\myproject1\myproject1\bin\Debug\myproject1.exe.config
+C:\Users\Munh-Orgil\Desktop\nmit\DotNET\myproject1\myproject1\bin\Debug\myproject1.exe
+C:\Users\Munh-Orgil\Desktop\nmit\DotNET\myproject1\myproject1\bin\Debug\myproject1.pdb
+C:\Users\Munh-Orgil\Desktop\nmit\DotNET\myproject1\myproject1\obj\Debug\myproject1.csproj.AssemblyReference.cache
+C:\Users\Munh-Orgil\Desktop\nmit\DotNET\myproject1\myproject1\obj\Debug\myproject1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Munh-Orgil\Desktop\nmit\DotNET\myproject1\myproject1\obj\Debug\myproject1.Form1.resources
+C:\Users\Munh-Orgil\Desktop\nmit\DotNET\myproject1\myproject1\obj\Debug\myproject1.Properties.Resources.resources
+C:\Users\Munh-Orgil\Desktop\nmit\DotNET\myproject1\myproject1\obj\Debug\myproject1.csproj.GenerateResource.cache
+C:\Users\Munh-Orgil\Desktop\nmit\DotNET\myproject1\myproject1\obj\Debug\myproject1.csproj.CoreCompileInputs.cache
+C:\Users\Munh-Orgil\Desktop\nmit\DotNET\myproject1\myproject1\obj\Debug\myproject1.exe
+C:\Users\Munh-Orgil\Desktop\nmit\DotNET\myproject1\myproject1\obj\Debug\myproject1.pdb
